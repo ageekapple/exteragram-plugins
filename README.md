@@ -36,7 +36,7 @@ Supported services:
 - Last.fm (скробблинг)
 - stats.fm (отслеживание Spotify и Apple Music)
 
-[Download plugin](#)
+[Download plugin](https://t.me/exteraDevPlugins/267)
 
 ---
 
@@ -46,7 +46,7 @@ Helps you stay focused in chats by reducing visual noise, highlighting relevant 
 **RU:**  
 Помогает сосредоточиться в чатах, снижая визуальный шум, выделяя важные сообщения и предоставляя гибкие инструменты фильтрации и модерации.
 
-[Download plugin](#)
+[Download plugin](https://t.me/exteraDevPlugins/318)
 
 ---
 
@@ -56,7 +56,7 @@ Context-aware translation plugin that intelligently adapts messages so they soun
 **RU:**  
 Контекстно-зависимый плагин перевода, который интеллектуально адаптирует сообщения, чтобы они звучали естественно на целевом языке.
 
-[Download plugin](#)
+[Download plugin](https://t.me/exteraDevPlugins/314)
 
 ---
 
@@ -66,7 +66,7 @@ Translate messages using native translation with no API keys or tokens required.
 **RU:**  
 Перевод сообщений с использованием встроенного перевода без API-ключей и токенов.
 
-[Download plugin](#)
+[Download plugin](https://t.me/exteraDevPlugins/345)
 
 ---
 
@@ -76,7 +76,7 @@ Turns the dialogs search bar into a quick web search tool so you can search the 
 **RU:**  
 Превращает строку поиска диалогов в инструмент веб-поиска, позволяя искать в интернете прямо из списка чатов.
 
-[Download plugin](#)
+[Download plugin](https://t.me/exteraDevPlugins/346)
 
 ---
 
@@ -88,7 +88,7 @@ Supports **stats.fm** and **Last.fm** music activity.
 Расширяет список чатов динамическими приветствиями по времени суток, настраиваемыми заголовками, интеграцией Now Playing и отображением погоды в реальном времени.  
 Поддерживает **stats.fm** и **Last.fm**.
 
-[Download plugin](#)
+[Download plugin](https://t.me/exteraDevPlugins/273)
 
 ---
 
@@ -98,7 +98,7 @@ Search the web directly from chats using engines like Google, Yandex, Bing and o
 **RU:**  
 Позволяет искать в интернете прямо из чата через Google, Yandex, Bing и другие поисковые системы.
 
-[Download plugin](#)
+[Download plugin](https://t.me/exteraDevPlugins/251)
 
 ---
 
@@ -108,7 +108,7 @@ Shorten URLs using Cutt.ly, TinyURL, is.gd, Cleanuri, Bitly or Clck.ru.
 **RU:**  
 Сокращает ссылки с помощью сервисов Cutt.ly, TinyURL, is.gd, Cleanuri, Bitly или Clck.ru.
 
-[Download plugin](#)
+[Download plugin](https://t.me/exteraDevPlugins/136)
 
 ---
 
@@ -118,7 +118,7 @@ Create custom commands to quickly open public Telegram links or internal screens
 **RU:**  
 Создаёт пользовательские команды для быстрого открытия ссылок Telegram или внутренних экранов.
 
-[Download plugin](#)
+[Download plugin](https://t.me/exteraDevPlugins/160)
 
 ---
 
