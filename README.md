@@ -6,7 +6,7 @@ Context moderation panel for tagging, notes and quick admin actions inside **ext
 **RU:**  
 Контекстная панель модерации для тегов, заметок и быстрых действий администратора в **exteraGram**.
 
-[Download plugin](#)
+[Download plugin](https://t.me/exteraDevPlugins/371)
 
 ---
 
@@ -16,7 +16,7 @@ A dock for favorite chats inside conversations, allowing quick access and previe
 **RU:**  
 Док для избранных чатов внутри диалогов, позволяющий быстро открывать и просматривать чаты, не покидая текущий.
 
-[Download plugin](#)
+[Download plugin](https://t.me/exteraDevPlugins/360)
 
 ---
 
@@ -36,7 +36,7 @@ Supported services:
 - Last.fm (скробблинг)
 - stats.fm (отслеживание Spotify и Apple Music)
 
-[Download plugin](https://t.me/exteraDevPlugins/267)
+[Download plugin](https://t.me/exteraDevPlugins/380)
 
 ---
 
@@ -66,7 +66,7 @@ Translate messages using native translation with no API keys or tokens required.
 **RU:**  
 Перевод сообщений с использованием встроенного перевода без API-ключей и токенов.
 
-[Download plugin](https://t.me/exteraDevPlugins/345)
+[Download plugin](https://t.me/exteraDevPlugins/374)
 
 ---
 
