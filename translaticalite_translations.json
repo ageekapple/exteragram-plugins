@@ -1,0 +1,117 @@
+{
+  "settings_enable": {
+    "en": "Enable",
+    "pt": "Ativar",
+    "ru": "Включить"
+  },
+  "settings_plugin_lang": {
+    "en": "Plugin Language",
+    "pt": "Idioma do plugin",
+    "ru": "Язык плагина"
+  },
+  "settings_target_lang": {
+    "en": "Target Language",
+    "pt": "Idioma de destino",
+    "ru": "Целевой язык"
+  },
+  "settings_debug_logs": {
+    "en": "Debug Logs",
+    "pt": "Logs de depuração",
+    "ru": "Логи отладки"
+  },
+  "bulletin_enabled": {
+    "en": "Translatica Lite enabled",
+    "pt": "Translatica Lite ativado",
+    "ru": "Translatica Lite включён"
+  },
+  "bulletin_disabled": {
+    "en": "Translatica Lite disabled",
+    "pt": "Translatica Lite desativado",
+    "ru": "Translatica Lite выключен"
+  },
+  "bulletin_failed": {
+    "en": "Translation failed",
+    "pt": "Falha na tradução",
+    "ru": "Ошибка перевода"
+  },
+  "sheet_title_chat_language": {
+    "en": "Chat Language",
+    "pt": "Idioma do chat",
+    "ru": "Язык чата"
+  },
+  "bulletin_chat_enabled_saved": {
+    "en": "Chat translation enabled.",
+    "pt": "Tradução do chat ativada.",
+    "ru": "Перевод чата включён."
+  },
+  "bulletin_chat_disabled_saved": {
+    "en": "Chat translation disabled.",
+    "pt": "Tradução do chat desativada.",
+    "ru": "Перевод чата отключён."
+  },
+  "bulletin_chat_lang_saved": {
+    "en": "You chose %s!",
+    "pt": "Você escolheu %s!",
+    "ru": "Вы выбрали %s!"
+  },
+  "welcome_dotted_button": {
+    "en": "Dotted Chat",
+    "pt": "Dotted Chat",
+    "ru": "Dotted Chat"
+  },
+  "welcome_dotted_desc": {
+    "en": "Need any help? Join our support community.",
+    "pt": "Precisa de ajuda? Entre na nossa comunidade de suporte.",
+    "ru": "Нужна помощь? Присоединяйтесь к нашему сообществу поддержки."
+  },
+  "welcome_text": {
+    "en": "To get started, choose your preferred language and target translation language.",
+    "pt": "Para começar, escolha o idioma do plugin e o idioma de destino da tradução.",
+    "ru": "Чтобы начать, выберите язык плагина и целевой язык перевода."
+  },
+  "welcome_divider": {
+    "en": "Welcome, **{name}**!\nTo get started, choose your preferred plugin language and target translation language in the settings.\n\nIn chats, tap the icon in the message field to enable or disable Translatica Lite.\nHold the icon for a few seconds to choose the translation language for that chat.",
+    "pt": "Bem-vindo, **{name}**!\nPara começar, escolha o idioma do plugin e o idioma de destino da tradução nas configurações.\n\nNos chats, toque no ícone no campo de mensagem para ativar ou desativar o Translatica Lite.\nSegure o ícone por alguns segundos para escolher o idioma de tradução para aquele chat.",
+    "ru": "Добро пожаловать, **{name}**!\nДля начала выберите язык плагина и целевой язык перевода в настройках.\n\nВ чатах нажмите на значок в поле ввода сообщения, чтобы включить или отключить Translatica Lite.\nУдерживайте значок несколько секунд, чтобы выбрать язык перевода для этого чата."
+  },
+  "about_desc": {
+    "pt": "Obrigado por usar meus plugins!\n\nTranslatica Lite é um plugin criado por Apple (aka @AGeekApple).",
+    "en": "Thanks for using my plugins!\n\nTranslatica Lite is a plugin created by Apple (aka @AGeekApple).",
+    "ru": "Спасибо за использование моих плагинов!\n\nTranslatica Lite — плагин от Apple (он же @AGeekApple)."
+  },
+  "about_button": {
+    "pt": "Diga olá!",
+    "en": "Say hello!",
+    "ru": "Поздороваться!"
+  },
+  "settings_translate_service_native": {
+    "pt": "Translatica",
+    "en": "Translatica",
+    "ru": "Translatica"
+  },
+  "settings_translate_service_translatica": {
+    "pt": "Alternativo",
+    "en": "Alternative",
+    "ru": "Альтернативный"
+  },
+  "settings_translate_service_dynamic": {
+    "pt": "Dinâmico",
+    "en": "Dynamic",
+    "ru": "Динамический"
+  },
+  "settings_translate_service": {
+    "pt": "Provedor",
+    "en": "Provider",
+    "ru": "Провайдер"
+  },
+  "settings_about": {
+    "pt": "Sobre",
+    "en": "About",
+    "ru": "О плагине"
+  },
+  "dialog_close": {
+    "en": "Close",
+    "pt": "Fechar",
+    "ru": "Закрыть"
+  }
+}
