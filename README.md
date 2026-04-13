@@ -6,7 +6,7 @@ Context moderation panel for tagging, notes and quick admin actions inside **ext
 **RU:**  
 Контекстная панель модерации для тегов, заметок и быстрых действий администратора в **exteraGram**.
 
-[Download plugin](https://t.me/exteraDevPlugins/371)
+[Download plugin](https://t.me/thedotted/371)
 
 ---
 
@@ -16,7 +16,7 @@ A dock for favorite chats inside conversations, allowing quick access and previe
 **RU:**  
 Док для избранных чатов внутри диалогов, позволяющий быстро открывать и просматривать чаты, не покидая текущий.
 
-[Download plugin](https://t.me/exteraDevPlugins/360)
+[Download plugin](https://t.me/thedotted/360)
 
 ---
 
@@ -36,7 +36,9 @@ Supported services:
 - Last.fm (скробблинг)
 - stats.fm (отслеживание Spotify и Apple Music)
 
-[Download plugin](https://t.me/exteraDevPlugins/380)
+[Download plugin](https://t.me/thedotted/380)
+[Beta](https://t.me/TheDotted/382)
+
 
 ---
 
@@ -46,7 +48,7 @@ Helps you stay focused in chats by reducing visual noise, highlighting relevant 
 **RU:**  
 Помогает сосредоточиться в чатах, снижая визуальный шум, выделяя важные сообщения и предоставляя гибкие инструменты фильтрации и модерации.
 
-[Download plugin](https://t.me/exteraDevPlugins/318)
+[Download plugin](https://t.me/thedotted/318)
 
 ---
 
@@ -56,7 +58,7 @@ Context-aware translation plugin that intelligently adapts messages so they soun
 **RU:**  
 Контекстно-зависимый плагин перевода, который интеллектуально адаптирует сообщения, чтобы они звучали естественно на целевом языке.
 
-[Download plugin](https://t.me/exteraDevPlugins/314)
+[Download plugin](https://t.me/thedotted/314)
 
 ---
 
@@ -66,7 +68,7 @@ Translate messages using native translation with no API keys or tokens required.
 **RU:**  
 Перевод сообщений с использованием встроенного перевода без API-ключей и токенов.
 
-[Download plugin](https://t.me/exteraDevPlugins/374)
+[Download plugin](https://t.me/thedotted/374)
 
 ---
 
@@ -76,7 +78,7 @@ Turns the dialogs search bar into a quick web search tool so you can search the 
 **RU:**  
 Превращает строку поиска диалогов в инструмент веб-поиска, позволяя искать в интернете прямо из списка чатов.
 
-[Download plugin](https://t.me/exteraDevPlugins/346)
+[Download plugin](https://t.me/thedotted/346)
 
 ---
 
@@ -88,7 +90,7 @@ Supports **stats.fm** and **Last.fm** music activity.
 Расширяет список чатов динамическими приветствиями по времени суток, настраиваемыми заголовками, интеграцией Now Playing и отображением погоды в реальном времени.  
 Поддерживает **stats.fm** и **Last.fm**.
 
-[Download plugin](https://t.me/exteraDevPlugins/273)
+[Download plugin](https://t.me/thedotted/273)
 
 ---
 
@@ -98,7 +100,7 @@ Search the web directly from chats using engines like Google, Yandex, Bing and o
 **RU:**  
 Позволяет искать в интернете прямо из чата через Google, Yandex, Bing и другие поисковые системы.
 
-[Download plugin](https://t.me/exteraDevPlugins/251)
+[Download plugin](https://t.me/thedotted/251)
 
 ---
 
@@ -108,7 +110,7 @@ Shorten URLs using Cutt.ly, TinyURL, is.gd, Cleanuri, Bitly or Clck.ru.
 **RU:**  
 Сокращает ссылки с помощью сервисов Cutt.ly, TinyURL, is.gd, Cleanuri, Bitly или Clck.ru.
 
-[Download plugin](https://t.me/exteraDevPlugins/136)
+[Download plugin](https://t.me/thedotted/136)
 
 ---
 
@@ -118,7 +120,7 @@ Create custom commands to quickly open public Telegram links or internal screens
 **RU:**  
 Создаёт пользовательские команды для быстрого открытия ссылок Telegram или внутренних экранов.
 
-[Download plugin](https://t.me/exteraDevPlugins/160)
+[Download plugin](https://t.me/thedotted/160)
 
 ---
 
