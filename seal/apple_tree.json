@@ -1,5 +1,4 @@
 {
-  "source": "GitHubLink",
   "items": [
     {
       "places": [
@@ -9,6 +8,14 @@
       ],
       "mark": 5890925363067886150,
       "note": "Apple Plugins Lab (@AGeekApple)"
+    },
+    {
+      "places": [
+        -1002814050223,
+        2814050223
+      ],
+      "mark": 5890925363067886150,
+      "note": "Official Community"
     }
   ]
 }
